@@ -1,0 +1,5 @@
+1 arroz
+2 feijão
+3 macarrão
+4 carne
+5 cerveja
