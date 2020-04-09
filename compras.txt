@@ -1,5 +1,6 @@
 1 arroz
-2 feijão
-3 macarrão
+2 feijÄƒo
+3 macarrÄƒo
 4 carne
 5 cerveja
+6 pÃ£o
